@@ -1,6 +1,6 @@
 {
   "name": "@knfs-tech/bamimi-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Log module",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",

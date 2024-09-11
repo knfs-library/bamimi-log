@@ -1,14 +1,14 @@
 <p align="center">
-  <img width="250" src="https://github.com/knfs-jsc/bamimi-log/blob/master/docs/images/logo-background.png?raw=true">
+  <img width="250" src="https://github.com/knfs-library/bamimi-log/blob/master/docs/images/logo-background.png?raw=true">
   <br>
-	<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fknfs-jsc%2Fbamimi-log?ref=badge_shield&issueType=license" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknfs-jsc%2Fbamimi-log.svg?type=shield&issueType=license"/></a>
-	<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fknfs-jsc%2Fbamimi-log?ref=badge_shield&issueType=security" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknfs-jsc%2Fbamimi-log.svg?type=shield&issueType=security"/></a>
-	<a href="https://scrutinizer-ci.com/g/knfs-jsc/bamimi-log/build-status/master"alt="scrutinizer">
-	<img src="https://scrutinizer-ci.com/g/knfs-jsc/bamimi-log/badges/build.png?b=master" alt="Build Status" /></a>
-	<a href="https://scrutinizer-ci.com/g/knfs-jsc/bamimi-log/?branch=master"alt="scrutinizer">
-	<img src="https://scrutinizer-ci.com/g/knfs-jsc/bamimi-log/badges/quality-score.png?b=master" alt="Scrutinizer Code Quality" /></a>
-	<a href="https://github.com/knfs-jsc/bamimi-log/actions"alt="scrutinizer">
-	<!-- <img src="https://github.com/knfs-jsc/bamimi-log/actions" alt="github" /></a> -->
+	<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fknfs-library%2Fbamimi-log?ref=badge_shield&issueType=license" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknfs-library%2Fbamimi-log.svg?type=shield&issueType=license"/></a>
+	<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fknfs-library%2Fbamimi-log?ref=badge_shield&issueType=security" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknfs-library%2Fbamimi-log.svg?type=shield&issueType=security"/></a>
+	<a href="https://scrutinizer-ci.com/g/knfs-library/bamimi-log/build-status/master"alt="scrutinizer">
+	<img src="https://scrutinizer-ci.com/g/knfs-library/bamimi-log/badges/build.png?b=master" alt="Build Status" /></a>
+	<a href="https://scrutinizer-ci.com/g/knfs-library/bamimi-log/?branch=master"alt="scrutinizer">
+	<img src="https://scrutinizer-ci.com/g/knfs-library/bamimi-log/badges/quality-score.png?b=master" alt="Scrutinizer Code Quality" /></a>
+	<a href="https://github.com/knfs-library/bamimi-log/actions"alt="scrutinizer">
+	<!-- <img src="https://github.com/knfs-library/bamimi-log/actions" alt="github" /></a> -->
 </p>
 
 <h1> <span style="color:#013C4D;">About</span> <span style="color:#2B7F84;">Bamimi log</span></h1>
@@ -154,11 +154,11 @@ new Logger("test log", "error")
 * [Kent Phung](https://github.com/khapu2906)
   
 ## Owner
-* [Knfs.,jsc](https://github.com/knfs-jsc)
+* [Knfs.,jsc](https://github.com/knfs-library)
 
 
 ## License
 
 Bamimi is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknfs-jsc%2Fbamimi-log.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknfs-jsc%2Fbamimi-log?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknfs-library%2Fbamimi-log.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknfs-library%2Fbamimi-log?ref=badge_large)
